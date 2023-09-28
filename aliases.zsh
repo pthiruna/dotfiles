@@ -1,4 +1,5 @@
 # Shortcuts
+alias nv="nvim"
 alias oalias="nvim ~/.dotfiles/aliases.zsh"
 alias oaliases="nvim ~/.dotfiles/aliases.zsh"
 alias ozshrc="nvim ~/.dotfiles/.zshrc"

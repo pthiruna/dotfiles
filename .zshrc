@@ -1,7 +1,6 @@
 
 # Path to your dotfiles.
 export DOTFILES=$HOME/.dotfiles
-
 # env Variables
 export ACTIVE_PROJECT=$HOME/Project/MyLabs/tensor
 
@@ -139,3 +138,5 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
+# Source functions
+source $DOTFILES/functions.sh
