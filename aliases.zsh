@@ -1,4 +1,8 @@
 # Shortcuts
+alias oalias="nvim ~/.dotfiles/aliases.zsh"
+alias oaliases="nvim ~/.dotfiles/aliases.zsh"
+alias ozshrc="nvim ~/.dotfiles/.zshrc"
+alias onvim="nvim ~/.dotfiles/.config/nvim"
 alias copyssh="pbcopy < $HOME/.ssh/id_ed25519.pub"
 alias reloadshell="source $HOME/.zshrc"
 alias shrug="echo '¯\_(ツ)_/¯' | pbcopy"
@@ -6,7 +10,8 @@ alias shrug="echo '¯\_(ツ)_/¯' | pbcopy"
 # Directories
 alias dotfiles="cd $DOTFILES"
 alias library="cd $HOME/Library"
-alias projects="cd $HOME/Code"
+alias projects="cd $HOME/Projects/Mylabs"
+alias ap="cd $ACTIVE_PROJECT"
 
 
 # JS
