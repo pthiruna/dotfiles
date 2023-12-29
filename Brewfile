@@ -16,6 +16,9 @@ brew 'mackup'
 brew 'mas' # Mac App Store manager
 brew 'svn' # Needed to install fonts
 
+# Utitlies
+brew spectacle
+
 # Development
 brew 'mysql'
 brew 'node'
@@ -35,6 +38,7 @@ cask 'github'
 cask 'google-chrome'
 cask 'visual-studio-code'
 cask 'zoom'
+
 
 
 # Fonts
