@@ -2,6 +2,8 @@
 
 ### Find the source of commands 
 
+**Can be used for find the the location of the aliases**
+
 **bash**
 `bash -ixlc : 2>&1 | grep thingToSearchHere`
 
