@@ -17,7 +17,7 @@ brew 'mas' # Mac App Store manager
 brew 'svn' # Needed to install fonts
 
 # Utitlies
-brew spectacle
+brew 'spectacle'
 
 # Development
 brew 'mysql'
