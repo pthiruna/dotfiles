@@ -20,6 +20,12 @@ brew 'svn' # Needed to install fonts
 brew 'mysql'
 brew 'node'
 brew 'npm'
+brew 'neovim'
+brew 'tree'
+brew 'yarn'
+brew 'powerlevel10k'
+brew 'minikube'
+
 
 # Apps
 cask 'docker'
