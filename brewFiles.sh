@@ -29,6 +29,9 @@ brew 'yarn'
 brew 'powerlevel10k'
 brew 'minikube'
 
+#theme
+brew 'powerlevel10k'
+
 
 # Apps
 cask 'iterm2'
