@@ -31,6 +31,7 @@ brew 'minikube'
 
 
 # Apps
+cask 'iterm2'
 cask 'docker'
 cask 'figma'
 cask 'firefox'
