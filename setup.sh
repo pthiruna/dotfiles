@@ -7,6 +7,9 @@ brew bundle --file=~/brewFiles.sh
 # Git Clone this repo
 git clone https://github.com/pthiruna/dotfiles.git
 
+# install ohmyzsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
 # Navigate to user home directory
 source .dotfiles/install.sh
 
