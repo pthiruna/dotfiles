@@ -11,5 +11,5 @@ git clone https://github.com/pthiruna/dotfiles.git
 source .dotfiles/install.sh
 
 # Brew install all applications 
-brew bundle --file=~/Brewfile
+brew bundle --file=~/brewFiles.sh
 
