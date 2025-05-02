@@ -2,7 +2,7 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # Install iterm
-brew install --cask iterm2
+
 
 # Git Clone this repo
 git clone https://github.com/pthiruna/dotfiles.git
