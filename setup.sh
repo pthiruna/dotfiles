@@ -1,12 +1,13 @@
 # Install brew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+# Brew install all applications 
+brew bundle --file=~/brewFiles.sh
+
 # Git Clone this repo
 git clone https://github.com/pthiruna/dotfiles.git
 
 # Navigate to user home directory
 source .dotfiles/install.sh
 
-# Brew install all applications 
-brew bundle --file=~/brewFiles.sh
 
