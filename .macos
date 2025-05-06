@@ -1,4 +1,8 @@
-##!/usr/bin/env bash
+!/usr/bin/env bash
+
+# Disable press and hold on VS Code to move up and down while using the vim plugin
+defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
+
 #
 ## Thanks to Mathias Bynens!
 ## ~/.macos — https://mths.be/macos
