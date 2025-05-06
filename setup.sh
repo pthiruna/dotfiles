@@ -13,4 +13,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 # Navigate to user home directory
 source .dotfiles/install.sh
 
+# Update mac os settings
+source .dotfiles/.macos
 
