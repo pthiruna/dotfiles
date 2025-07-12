@@ -16,8 +16,10 @@ brew 'mackup'
 brew 'mas' # Mac App Store manager
 brew 'svn' # Needed to install fonts
 
+
 # Utitlies
 brew 'spectacle'
+brew 'iperf3' # Tool to test bandwidth on LAN
 
 # Development
 brew 'mysql'
